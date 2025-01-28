@@ -1,0 +1,119 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+li:hover{
+  cursor: pointer;
+}
+
+
+
+.custom-sticky {
+  position: fixed;
+  left:0px;
+  top: 0px;
+  z-index: 1000;
+  background-color: #f8f9fa; 
+  width: 100%;
+}
+
+.bg{
+  height: 320px;
+  width: 100%;
+  background-image: url('https://www.samatapat.com/admin/uploads/boardofdir/board-of-director654a12a0d112c.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.bg2{
+  height: 320px;
+  width: 100%;
+  background-image: url('https://www.samatapat.com/admin/uploads/termdepositpage/terms-deposit654b7fe6dcfc8.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+
+}
+
+.bg3{
+  height: 320px;
+  width: 100%;
+  background-image: url('https://www.samatapat.com/admin/uploads/microatmpage/micro-atm654dfa75aa042.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left center;
+
+}
+
+.bg4{
+  height: 320px;
+  width: 100%;
+  background-image: url('https://www.samatapat.com/admin/uploads/headofficepage/contact654f2954b99f0.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left center;
+
+}
+
+.bg5{
+  height: 320px;
+  width: 100%;
+  background-image: url('https://www.samatapat.com/admin/uploads/noticepage/career654f2fe1b2acd.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left center;
+
+}
+.notice{
+  height: 900px;
+  width: 100%;
+  background-image: url('https://www.samatapat.com/admin/uploads/noticepage/sp669bba5cdb97f.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left center;
+  margin-top: 100px;
+
+}
+
+.iframe:hover{
+  border: 3px solid blue;
+
+
+}
+
+.line1{
+  width: 350px;
+  height: 1px;
+  background-color: grey;
+  position: relative;
+  left:190px;
+  bottom: 10px;
+
+  
+}
+
+.line2{
+  width: 250px;
+  height: 1px;
+  background-color: grey;
+  position: relative;
+  left:140px;
+  bottom: 10px;
+
+  
+}
+ @media (max-width: 576px) {
+    .rounded-circle {
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+    }
+}
+.nav-link:hover{
+  color:rgb(201, 230, 95) !important;
+}
+ 
+
+
